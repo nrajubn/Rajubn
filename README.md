@@ -24,7 +24,7 @@ My object is to become a full-stack developer interested in working in the banki
 - I did my bachelors on electronics and communication engineering at vignan, duvvada in 2015.
 - I completed my intermediate from narayana junior college
 
-## Communicaiton
+## Connections
 - LinkedIn Profile: https://www.linkedin.com/in/b-n-raju-38ab7919a/ 
 
 
