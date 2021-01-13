@@ -1,1 +1,5 @@
 # Rajubn
+
+Hi, my name is Raju; I'm pursuing a master's in applied computer science at Northwest Missouri State University. I am in my final-semester;I graduated with my undergrad in 2015 and started working in cognizant, India, as a systems engineer. I worked for about 3years.
+
+My object is to become a full-stack developer interested in working in the banking domain and insurance domains. I love to cook and eat, I play badminton, I do exercise, and I love photography.
