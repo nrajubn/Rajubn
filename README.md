@@ -8,3 +8,8 @@ My object is to become a full-stack developer interested in working in the banki
 
 
 ## Skills
+- HTML
+- CSS
+- JavaScript
+- Java7 
+- SpringBoot
